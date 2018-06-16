@@ -1,0 +1,5 @@
+some:
+  property: global
+some:
+  other:
+    property:global
